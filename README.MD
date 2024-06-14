@@ -1,3 +1,14 @@
+## Source code is private. Follow here! https://www.linkedin.com/company/legacytheapp/
+
+## My Contributions to Legacy
+
+### Full ownership of the Guides feature, work ranging from PostgreSQL Database + Golang REST API backend to React Native clientside.
+
+![alt text](./screenshots/guides_home.png)
+![alt text](./screenshots/guides_page.png)
+
+## Brand Book
+
 ![alt text](./brandbook/fullbook_Page_01.jpg)
 ![alt text](./brandbook/fullbook_Page_02.jpg)
 ![alt text](./brandbook/fullbook_Page_03.jpg)
