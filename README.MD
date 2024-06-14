@@ -1,4 +1,4 @@
-## Source code is private. Follow here! https://www.linkedin.com/company/legacytheapp/
+## Source code & insights are private. Pitched to investors December 2023. Follow here! https://www.linkedin.com/company/legacytheapp/
 
 ## My Contributions to Legacy
 
